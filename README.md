@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedIzia
-- 👀 I’m interested in Cyber World
-- 🌱 I’m currently learning Security +
+- 👀 I’m in Cyber World
+- 🌱 I’m currently an undergrad student in Cybersecurity and Information Assurance Security+ certified
 - 💞️ I’m looking to collaborate on Projects related to Security
 - 📫 How to reach me talhaziaas@gmail.com
 
